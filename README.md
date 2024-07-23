@@ -7,7 +7,15 @@ I really enjoy learning languages and framework like Python, C++, .dotNet, Java,
 
 ## Skills and Experience : VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
+### Extras
+- 🔭 I’m currently working on *Fullstack development projects and continue to develop personal projects involving my skills in Graphic Design, Data Analysis, Database Management, and Automation...* 
+- 🌱 I’m currently learning *AI Generative, Mobile Development,* 
+- 👯 I’m looking to collaborate on *Projects in digitalization, data implementation and processing, security, technical support, training* 
+- 🤔 I’m looking for help with *Any public offer and for anyone who wants to collaborate with me.* 
+- 💬 Ask me about *Design, implementation, and management of databases, GSM, artificial intelligence* 
+- 📫 How to reach me: https://www.linkedin.com/in/romuald-abouta/ 
+- ⚡ Fun fact: *I love research, music/dance, puzzles, travel...* 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/diabodon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/rabouta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/romuald-abouta/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/diabodon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tonton_ro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/diabodon07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCBm1P52UxhpOVTRuB7uYXYg)  
