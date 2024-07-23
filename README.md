@@ -15,26 +15,18 @@ I am always open to discussions, so feel free to ask questions or share concerns
 - 💬 Ask me about *Design, implementation, and management of databases, GSM, artificial intelligence* 
 - 📫 How to reach me: [Gmail](mailto:diabodondil@gmail.com)
 - 😄 Pronouns: He/Him
-- 🧾 Check out my [resume](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf).
+- 🧾 Check out my [resume](https://github.com/diadodon/diadodon/blob/main/rabouta.CV.pdf).
 - ⚡ Fun fact: *I love research, music/dance, puzzles, travel...* 
 
 -----------------------------
 
-## <p align="center">Skills and Experience :</p>
+## Skills and Experience :
 VUE JS / REACT / JS / HTML / CSS
 
 
-## <p align="center">Github Statistics</p>
-<p align="center">
-  <a href="http://www.github.com/diadodon">
-    <img src="https://github-readme-stats.vercel.app/api?username=diadodon&show_icons=true&locale=en&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=99bdda&hide_border=true" alt="Romuald's GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diadodon&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=2784d0" />
-  </a>
-</p>
-
 -----------------------------
 
-## <p align="center">Tools & Technologies :</p>
+## 🛠️ Tools & Technologies :
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -49,9 +41,32 @@ VUE JS / REACT / JS / HTML / CSS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 📊 GitHub Statistics</p>
+<!--<p align="center">
+  <a href="http://www.github.com/diadodon">
+    <img src="https://github-readme-stats.vercel.app/api?username=diadodon&show_icons=true&locale=en&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=99bdda&hide_border=true" alt="Romuald's GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diadodon&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=2784d0" />
+  </a>
+</p>-->
 
-## <p align="center">Connect with me :</p>
-<p align="center"> 
+<img alt="Romuald's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diadodon&theme=white&&hide_border=true" width='48%' /> <img alt="Romuald's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=diadodon&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<br>
+
+## 🏆 GitHub Trophies:
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=diadodon&column=8&row=1">
+</p>
+<br>
+
+## 📈 GitHub Contribution Graph:
+
+<div align="center">
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=diadodon&theme=minimal"/>
+</div>
+<br>
+
+## Connect with me :
   <a href="https://www.github.com/diadodon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://dev.to/rabouta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/romuald-abouta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
@@ -59,5 +74,4 @@ VUE JS / REACT / JS / HTML / CSS
   <a href="https://www.instagram.com/tonton_ro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
   <a href="https://twitter.com/diabodon07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   <a href="https://www.youtube.com/channel/UCBm1P52UxhpOVTRuB7uYXYg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-</p>
 
