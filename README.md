@@ -5,10 +5,7 @@ Hi there 👋, I'm from Benin and I do Data Engineer and Developer. I'm also Cli
 I really enjoy learning languages and framework like Python, C++, .dotNet, Java, PHP, HTML, CSS, JS..
 *As an experienced Data Engineer and Developer, I am dynamic and thrive on working in team environments to tackle technical challenges. I possess strong expertise in data processing tools, query handling, and development, and I am committed to continuous learning and improvement.*
 
-## Skills and Experience : VUE JS / REACT / JS / HTML / CSS
-
-
-### Extras
+### More
 - 🔭 I’m currently working on *Fullstack development projects and continue to develop personal projects involving my skills in Graphic Design, Data Analysis, Database Management, and Automation...* 
 - 🌱 I’m currently learning *AI Generative, Mobile Development,* 
 - 👯 I’m looking to collaborate on *Projects in digitalization, data implementation and processing, security, technical support, training* 
@@ -17,10 +14,41 @@ I really enjoy learning languages and framework like Python, C++, .dotNet, Java,
 - 📫 How to reach me: https://www.linkedin.com/in/romuald-abouta/ 
 - ⚡ Fun fact: *I love research, music/dance, puzzles, travel...* 
 
+## <p align="center">Skills and Experience :</p>
+VUE JS / REACT / JS / HTML / CSS
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/diabodon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/rabouta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/romuald-abouta/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/diabodon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tonton_ro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/diabodon07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCBm1P52UxhpOVTRuB7uYXYg)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=diabodon)](https://github.com/ryo-ma/github-profile-trophy)
+-----------------------------
+<p align="center">
+  <a href="http://www.github.com/diadodon">
+    <img src="https://github-readme-stats.vercel.app/api?username=diadodon&show_icons=true&locale=en&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=99bdda&hide_border=true" alt="Romuald's GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diadodon&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=2784d0" />
+  </a>
+</p>
+
+-----------------------------
+
+## <p align="center">Tools & Technologies :</p>
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![VueJs](https://img.shields.io/badge/vue-20232A?style=for-the-badge&logo=vue&logoColor=61DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+## <p align="center">Github Statistics</p>
+
+
+## <p align="center">Connect with me :</p>
+<p align="center"> 
+<a href="https://www.github.com/diadodon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://dev.to/rabouta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/romuald-abouta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.facebook.com/diabodon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+<a href="https://www.instagram.com/tonton_ro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+<a href="https://twitter.com/diabodon07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.youtube.com/channel/UCBm1P52UxhpOVTRuB7uYXYg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+</p>
 
